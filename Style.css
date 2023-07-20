@@ -1,0 +1,31 @@
+
+.card {
+    margin : 10% 40%;
+    width : 18rem;
+    padding : 20px;
+    border-radius: 15px;
+}
+
+.card-img-top {
+
+    border-radius: 10px;
+}
+
+.card-title {
+    font-family: 'Outfit', sans-serif;
+    
+}
+
+.card-text {
+    color : hsl(220, 15%, 55%);
+}
+
+body {
+    background-color:hsl(212, 45%, 89%);
+
+}
+
+.attribution {
+    text-align: center;
+}
+
