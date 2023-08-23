@@ -6,7 +6,8 @@
 
 ### Screenshot
 
-[Link](./Screenshot/screenshot-127.0.0.1_5500-2023.07.18-15_24_35.png)
+![screenshot-127 0 0 1_5500-2023 07 18-15_24_35](https://github.com/Licifer666/Licifer666.github.io/assets/65387092/d0b5f7d5-fb30-4587-8017-bd565f231d28)
+
 
 
 ### Links
