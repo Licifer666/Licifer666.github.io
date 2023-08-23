@@ -6,7 +6,7 @@
 
 ### Screenshot
 
-![Alt text](./Screenshot/screenshot-127.0.0.1_5500-2023.07.18-15_24_35.png)
+[!Screenshot](./Screenshot/screenshot-127.0.0.1_5500-2023.07.18-15_24_35.png)
 
 
 ### Links
