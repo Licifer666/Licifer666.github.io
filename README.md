@@ -37,8 +37,6 @@
 
 - [Example resource 3](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - This is the official Bootstrap documentation page where I learn and use Bootstrap methods or pre-defined styles.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
 ## Author
 
 - Frontend Mentor - [@Licifer666](https://www.frontendmentor.io/profile/Licifer666)
